@@ -5,7 +5,7 @@ export default function ProjectsHeader(){
     return(
         <>
         <Tittle>Project</Tittle>
-        <SubTittle>Project pertama saya</SubTittle>
+        <SubTittle>My First Project</SubTittle>
         </>
     )
 }
