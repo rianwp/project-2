@@ -5,7 +5,7 @@ export default function ProfileHeader(){
     return(
         <>
         <Tittle>Profile</Tittle>
-        <SubTittle>Tentang saya</SubTittle>
+        <SubTittle>About Me</SubTittle>
         </>
     )
 }
