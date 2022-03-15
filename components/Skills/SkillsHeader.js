@@ -5,7 +5,7 @@ export default function SkillsHeader(){
     return(
         <>
         <Tittle>Skills</Tittle>
-        <SubTittle>Beberapa kemampuan yang saya kuasai</SubTittle>
+        <SubTittle>My Skills</SubTittle>
         </>
     )
 }
